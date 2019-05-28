@@ -55,6 +55,4 @@ from simplicial.file import *
 #import simplicial.drawing
 #from simplicial.drawing import *
 
-print("TEST")
-
-
+print("Simplicial fixed for Python 3")
